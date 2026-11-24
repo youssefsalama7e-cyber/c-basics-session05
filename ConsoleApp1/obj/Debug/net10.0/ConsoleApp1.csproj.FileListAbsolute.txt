@@ -1,0 +1,15 @@
+C:\youssef11111\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+C:\youssef11111\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\youssef11111\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\youssef11111\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+C:\youssef11111\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\youssef11111\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\youssef11111\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\youssef11111\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\youssef11111\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\youssef11111\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+C:\youssef11111\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\youssef11111\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\youssef11111\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\youssef11111\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\youssef11111\ConsoleApp1\obj\Debug\net10.0\ConsoleA.CB28C8CC.Up2Date
